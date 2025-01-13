@@ -14,4 +14,8 @@ Este é um projeto desenvolvido como um clone da interface da Netflix. O objetiv
 - **React**: Biblioteca JavaScript para construção da interface do usuário.
 - **CSS Modules**: Para estilização modular e organizada.
 - **Vite**: Ferramenta de build rápida e leve.
-- **API de Filmes**: Integração com uma API para exibição de dados reais.
+- **API de Filmes**: Integração com uma API para exibição de dados reais. 
+---
+
+Feito com ❤️ por [Gabriel dos Santos Ferreira](https://github.com/Gabriell-Santos)
+
