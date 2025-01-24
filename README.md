@@ -17,5 +17,4 @@ Este é um projeto desenvolvido como um clone da interface da Netflix. O objetiv
 - **API de Filmes**: Integração com uma API para exibição de dados reais. 
 ---
 
-Feito com ❤️ por [Gabriel dos Santos Ferreira](https://github.com/Gabriell-Santos)
-
+✍️ Feito com amor por [Gabriell-Santos](https://github.com/Gabriell-Santos) ❤️ 🌐 🖋️
